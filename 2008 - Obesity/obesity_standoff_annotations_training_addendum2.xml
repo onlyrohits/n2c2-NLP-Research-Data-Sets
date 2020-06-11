@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diseaseset>
+<diseases source="textual">
+<disease name="Asthma">
+<doc id="708" judgment="N"/>
+<doc id="1226" judgment="Y"/>
+<doc id="1244" judgment="Y"/>
+<doc id="1246" judgment="Q"/>
+</disease>
+<disease name="CAD">
+<doc id="673" judgment="N"/>
+<doc id="726" judgment="Y"/>
+<doc id="741" judgment="U"/>
+<doc id="868" judgment="U"/>
+<doc id="1052" judgment="Q"/>
+<doc id="1175" judgment="Y"/>
+<doc id="1201" judgment="Y"/>
+<doc id="1214" judgment="Y"/>
+<doc id="1226" judgment="Y"/>
+<doc id="1229" judgment="N"/>
+</disease>
+<disease name="CHF">
+<doc id="677" judgment="Y"/>
+<doc id="709" judgment="Y"/>
+<doc id="719" judgment="Y"/>
+<doc id="1042" judgment="Y"/>
+<doc id="1053" judgment="Y"/>
+<doc id="1111" judgment="Y"/>
+<doc id="1158" judgment="Y"/>
+<doc id="1185" judgment="Y"/>
+<doc id="1205" judgment="Y"/>
+<doc id="1214" judgment="Y"/>
+<doc id="1219" judgment="Y"/>
+</disease>
+<disease name="Depression">
+<doc id="719" judgment="Y"/>
+<doc id="729" judgment="Y"/>
+<doc id="1055" judgment="U"/>
+<doc id="1168" judgment="Y"/>
+</disease>
+<disease name="Diabetes">
+<doc id="666" judgment="N"/>
+<doc id="722" judgment="Y"/>
+<doc id="746" judgment="Y"/>
+<doc id="750" judgment="Y"/>
+<doc id="1172" judgment="Y"/>
+<doc id="1187" judgment="Y"/>
+</disease>
+<disease name="Gallstones">
+<doc id="1216" judgment="Y"/>
+<doc id="1219" judgment="Y"/>
+<doc id="1248" judgment="Y"/>
+</disease>
+<disease name="GERD">
+<doc id="1096" judgment="Q"/>
+</disease>
+<disease name="Gout">
+<doc id="713" judgment="Y"/>
+<doc id="952" judgment="Y"/>
+</disease>
+<disease name="Hypercholesterolemia">
+<doc id="664" judgment="Y"/>
+<doc id="666" judgment="N"/>
+<doc id="686" judgment="Y"/>
+<doc id="738" judgment="N"/>
+<doc id="741" judgment="U"/>
+<doc id="743" judgment="Y"/>
+<doc id="747" judgment="Y"/>
+<doc id="1166" judgment="Y"/>
+<doc id="1202" judgment="U"/>
+<doc id="1217" judgment="Y"/>
+</disease>
+<disease name="Hypertension">
+<doc id="660" judgment="Y"/>
+<doc id="691" judgment="Y"/>
+<doc id="722" judgment="Y"/>
+<doc id="746" judgment="Y"/>
+<doc id="747" judgment="Y"/>
+<doc id="1169" judgment="Y"/>
+<doc id="1202" judgment="U"/>
+<doc id="1217" judgment="Y"/>
+<doc id="1232" judgment="Y"/>
+<doc id="1249" judgment="Y"/>
+</disease>
+<disease name="Hypertriglyceridemia">
+<doc id="673" judgment="Y"/>
+</disease>
+<disease name="OA">
+<doc id="665" judgment="Y"/>
+<doc id="1153" judgment="Y"/>
+<doc id="1154" judgment="Y"/>
+<doc id="1162" judgment="Y"/>
+<doc id="1193" judgment="U"/>
+<doc id="1229" judgment="Y"/>
+</disease>
+<disease name="Obesity">
+<doc id="713" judgment="Y"/>
+<doc id="1150" judgment="Y"/>
+<doc id="1169" judgment="Y"/>
+<doc id="1180" judgment="Y"/>
+<doc id="1229" judgment="N"/>
+</disease>
+<disease name="OSA">
+<doc id="1149" judgment="Y"/>
+</disease>
+<disease name="PVD">
+<doc id="719" judgment="Y"/>
+</disease>
+<disease name="Venous Insufficiency">
+<doc id="673" judgment="Y"/>
+<doc id="712" judgment="Y"/>
+<doc id="941" judgment="Y"/>
+</disease>
+</diseases>
+</diseaseset>

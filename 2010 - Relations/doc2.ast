@@ -1,0 +1,3 @@
+c="pleural effusion" 7:1 7:2||t="problem"||a="absent"
+c="rare staphylococcus aureus" 5:13 5:15||t="problem"||a="present"
+c="pneumothorax" 7:4 7:4||t="problem"||a="absent"

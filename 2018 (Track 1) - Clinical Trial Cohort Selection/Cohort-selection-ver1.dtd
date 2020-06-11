@@ -1,0 +1,68 @@
+<!ENTITY name "PatientMatching">
+
+<!ELEMENT DRUG-ABUSE ( #PCDATA ) >
+<!ATTLIST DRUG-ABUSE start #IMPLIED >
+<!ATTLIST DRUG-ABUSE met ( met | not met | possible) >
+<!ATTLIST DRUG-ABUSE comment CDATA >
+
+<!ELEMENT ALCOHOL-ABUSE ( #PCDATA ) >
+<!ATTLIST ALCOHOL-ABUSE start #IMPLIED >
+<!ATTLIST ALCOHOL-ABUSE met ( met | not met | possible) >
+<!ATTLIST ALCOHOL-ABUSE comment CDATA >
+
+<!ELEMENT ENGLISH ( #PCDATA ) >
+<!ATTLIST ENGLISH start #IMPLIED >
+<!ATTLIST ENGLISH met ( met | not met | possible) >
+<!ATTLIST ENGLISH comment CDATA >
+
+<!ELEMENT MAKES-DECISIONS ( #PCDATA ) >
+<!ATTLIST MAKES-DECISIONS start #IMPLIED >
+<!ATTLIST MAKES-DECISIONS met ( met | not met | possible) >
+<!ATTLIST MAKES-DECISIONS comment CDATA >
+
+<!ELEMENT ABDOMINAL ( #PCDATA ) >
+<!ATTLIST ABDOMINAL start #IMPLIED >
+<!ATTLIST ABDOMINAL met ( met | not met | possible) >
+<!ATTLIST ABDOMINAL comment CDATA >
+
+<!ELEMENT MAJOR-DIABETES ( #PCDATA ) >
+<!ATTLIST MAJOR-DIABETES start #IMPLIED >
+<!ATTLIST MAJOR-DIABETES met ( met | not met | possible) >
+<!ATTLIST MAJOR-DIABETES complication ( amputation | kidney damage | skin conditions | retinopathy | nephropathy | neuropathy ) >
+<!ATTLIST MAJOR-DIABETES comment CDATA >
+
+<!ELEMENT ADVANCED-CAD ( #PCDATA ) >
+<!ATTLIST ADVANCED-CAD start #IMPLIED >
+<!ATTLIST ADVANCED-CAD met ( met | not met | possible) >
+<!ATTLIST ADVANCED-CAD complication ( 2 meds | MI history | current angina | ischemia ) >
+<!ATTLIST ADVANCED-CAD comment CDATA >
+
+<!ELEMENT MI-6MOS ( #PCDATA ) >
+<!ATTLIST MI-6MOS start #IMPLIED >
+<!ATTLIST MI-6MOS met ( met | not met | possible) >
+<!ATTLIST MI-6MOS comment CDATA >
+
+<!ELEMENT KETO-1YR ( #PCDATA ) >
+<!ATTLIST KETO-1YR start #IMPLIED >
+<!ATTLIST KETO-1YR met ( met | not met | possible) >
+<!ATTLIST KETO-1YR comment CDATA >
+
+<!ELEMENT DIETSUPP-2MOS ( #PCDATA ) >
+<!ATTLIST DIETSUPP-2MOS start #IMPLIED >
+<!ATTLIST DIETSUPP-2MOS met ( met | not met | possible) >
+<!ATTLIST DIETSUPP-2MOS comment CDATA >
+
+<!ELEMENT ASP-FOR-MI ( #PCDATA ) >
+<!ATTLIST ASP-FOR-MI start #IMPLIED >
+<!ATTLIST ASP-FOR-MI met ( met | not met | possible) >
+<!ATTLIST ASP-FOR-MI comment CDATA >
+
+<!ELEMENT HBA1C ( #PCDATA ) >
+<!ATTLIST HBA1C start #IMPLIED >
+<!ATTLIST HBA1C met ( met | not met | possible) >
+<!ATTLIST HBA1C comment CDATA >
+
+<!ELEMENT CREATININE ( #PCDATA ) >
+<!ATTLIST CREATININE start #IMPLIED >
+<!ATTLIST CREATININE met ( met | not met | possible) >
+<!ATTLIST CREATININE comment CDATA >
